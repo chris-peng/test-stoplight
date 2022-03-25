@@ -2,13 +2,22 @@
   "items": [
     {
       "type": "item",
-      "title": "get-started/aaa",
+      "title": "Get Started",
       "uri": "/docs/get-started.md"
     },
     {
       "type": "item",
-      "title": "test",
+      "title": "Test",
       "uri": "/docs/test.md"
+    },
+    {
+      "type": "divider",
+      "title": "dccd"
+    },
+    {
+      "type": "item",
+      "title": "Aa",
+      "uri": "/docs/dccd/aa.md"
     },
     {
       "type": "divider",
