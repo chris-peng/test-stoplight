@@ -14,10 +14,6 @@
       "uri": "/docs/test.md"
     },
     {
-      "type": "divider",
-      "title": "dccd"
-    },
-    {
       "type": "item",
       "title": "Aa",
       "uri": "/docs/dccd/aa.md"
