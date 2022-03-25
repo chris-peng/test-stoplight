@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "type": "item",
+      "title": "get-started/aaa",
+      "uri": "/docs/get-started.md"
+    },
+    {
+      "type": "item",
+      "title": "test",
+      "uri": "/docs/test.md"
+    },
+    {
+      "type": "divider",
+      "title": "APIS"
+    },
+    {
+      "type": "item",
+      "title": "Swagger Petstore",
+      "uri": "/test.json"
+    }
+  ]
+}
